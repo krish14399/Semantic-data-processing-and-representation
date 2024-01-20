@@ -17,4 +17,4 @@ Equal contribution (25%) by each individual for all the tasks.
 * The Markovify folder contains the work on generating movie scripts using Markovify.
 * Movie genre predictor - The code and results are uploaded in the form of pdf and .ipynb file
 * Presentations - Folder contains the Presentation of 2 papers
-* First Aid chatbot
+* Project on First Aid chatbot
