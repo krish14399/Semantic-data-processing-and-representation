@@ -4,8 +4,8 @@ Files and projects related to Semantic Data and processing mainly with different
 
 ## Teammates :
 ***
-* Megha Eldho
-* Krishnapriya Krishnan Santhadevi
+* Megha Eldho (5123773)
+* Krishnapriya Krishnan Santhadevi (5123779)
 * Sharik Anwar Zahir Hussain
 * Dheenadayalan Tamilarasan Muthuselvi
 
