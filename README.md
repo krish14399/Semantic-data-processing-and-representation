@@ -6,14 +6,13 @@ Files and projects related to Semantic Data and processing mainly with different
 ***
 * Megha Eldho (5123773)
 * Krishnapriya Krishnan Santhadevi (5123779)
-* Sharik Anwar Zahir Hussain
-* Dheenadayalan Tamilarasan Muthuselvi
+* Sharik Anwar Zahir Hussain (5123765)
+* Dheenadayalan Tamilarasan Muthuselvi (5123772)
 
 Equal contribution (25%) by each individual for all the tasks.
 
-## This Repository contains 4 Folders in total.
+## Brief description of the Folders.
 ***
-README
 
 This GitHub repository is organized into four folders, each corresponding to a specific assignment. 
 
@@ -21,7 +20,7 @@ This GitHub repository is organized into four folders, each corresponding to a s
 
 Folder Name: Markovify
 
-In this assignment, random sentences were generated from two different movie scripts using the markovify package. The scripts used were from the Indian movie "Vikram" (Language: Tamil) and the Hollywood movie "Forrest Gump." The generated sentences showcase the application of Markov chains for text generation.
+In this assignment, random sentences were generated from two different movie scripts using the Markovify package. The scripts used were from the Indian movie "Vikram" (Language: Tamil) and the Hollywood movie "Forrest Gump." The generated sentences showcase the application of Markov chains for text generation.
 
 2. Movie Genre Predictor
 
@@ -37,11 +36,11 @@ This folder contains presentations for two papers presented in the classroom:
 
 Presentation 1: Distributed Representations of Words and Phrases
 
-A presentation on the paper discussing the concept of distributed representations for words and phrases. We have presented the paper in the classroom. Just adding this point since we remember you saying that we'll get extra marks for presenting ;)
+A presentation on the paper discussing the concept of distributed representations for words and phrases. We have presented the paper in the classroom. Just adding this point since we remember you said that we'll get extra marks for presenting ;)
 
 Presentation 2: Irony Detection Using Transformers
 
-A Powerpoint presentation prepared for a paper titled Irony Detection using transformers. While the opportunity to present in the class was missed, the presentation slides are included.
+A PowerPoint presentation was prepared for a paper titled Irony Detection using transformers. While the opportunity to present in the class was missed, the presentation slides are included.
 
 4. Project on First Aid Chatbot
 
